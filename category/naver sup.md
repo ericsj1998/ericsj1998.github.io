@@ -6,6 +6,6 @@ layout: default
 
 <ul>
   
-  <li><a href="https://ericsj1998.github.io/how-i-rest-from-work/">네이버 서포터즈 오리엔테이션</a></li>
+  <li><a href="https://ericsj1998.github.io/2021-01-11-JS의 시작-오리엔테이션/">네이버 서포터즈 JS오리엔테이션</a></li>
   
 </ul>
