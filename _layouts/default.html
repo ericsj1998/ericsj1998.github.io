@@ -10,3 +10,19 @@
   {% include analytics.html %}
 </body>
 </html>
+
+<nav class="main-nav">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+  </ul>
+</nav>
+<nav class="main-nav">
+  <ul>
+    <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+    <li><a href="/blog.html" {% if page.url == "/blog.html" %}class="active"{% endif %}>Blog</a></li>
+  </ul>
+</nav>
+a.active {
+  color: #FFE000;
+}
