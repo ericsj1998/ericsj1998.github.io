@@ -1,4 +1,4 @@
-title: ERICSJ1998 GIT
+title: ERICSJ1998 GIT BLOG
 description: > # this means to ignore newlines until "baseurl:"
   한국에 사는 평범한 그림그리기 좋아하는 컴공쟁이의 깃헙페이지
 permalink: ':title/'
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: ericsj1998 # add your name
 author-img: ericsj1998pro.jpg # add your photo
-about-author: 깃헙 사이트 프로토타입; 서포터즈 활동과 겸해 차츰 업데이트 해나갈 예정 ;  현재 카테고리 작업중;   프로필 밑 favicon 그리는중  # add description
+about-author: 깃헙 사이트 프로토타입, 전공 내용과 드로잉 및 커미션 위주로 올리는 깃헙 블로그; 서포터즈 활동과 겸해 차츰 업데이트 해나갈 예정 ;  현재 카테고리 작업중;   프로필 밑 favicon 그리는중;  # add description
 social-twitter: sdf # add your Twitter handle
 social-facebook: sdf # add your Facebook handle
 social-github: ericsj1998 # add your Github handle
