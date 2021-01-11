@@ -1,6 +1,6 @@
 ---
 layout: post
-title:[부스트코스 서포터즈3기] 자바스크립트-오리엔테이션
+title: [부스트코스 서포터즈3기] 자바스크립트-오리엔테이션
 date: 2021-01-11
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: java-script.jpg # Add image post (optional)
