@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS의 시작 - 오리엔테이션
+title: [부스트코스 서포터즈3기]JS의 시작 - 오리엔테이션
 date: 2021-01-11
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: java-script.jpg # Add image post (optional)
@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [홈페이지 너무 어렵다, 프론트의 시작, 네이버]
 ---
 
-## 자바스크립트 - 네이버서포터즈의 시작.
+## 자바스크립트 - 네이버 서포터즈의 시작.
 
 * 대학교 편입원서를 제출하고 언제나(?) 와 같이 코딩을 하던 날, 같이 개발자를 목표로 하던 친구에게 연락이 왔다. 
 
